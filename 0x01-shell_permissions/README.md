@@ -1,1 +1,1 @@
-Decode permission readme
+Mirror permission readme
