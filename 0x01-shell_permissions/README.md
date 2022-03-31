@@ -1,1 +1,1 @@
-New Dir correct readme
+New dir cor readme
