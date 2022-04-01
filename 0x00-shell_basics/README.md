@@ -1,1 +1,1 @@
-Delete readme
+Deletedir readme
