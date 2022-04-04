@@ -1,1 +1,1 @@
-Third line readme
+Redirected readme
