@@ -1,1 +1,1 @@
-Duplicate readme
+Reverse readme
