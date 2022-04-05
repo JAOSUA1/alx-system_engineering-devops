@@ -1,1 +1,1 @@
-Delete js readme
+Duplicate line readme
