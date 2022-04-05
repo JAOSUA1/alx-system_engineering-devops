@@ -1,1 +1,1 @@
-Count directories readme
+Delete js readme
