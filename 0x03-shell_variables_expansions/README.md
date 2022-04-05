@@ -1,1 +1,1 @@
-Addition var readme
+Solution var readme
