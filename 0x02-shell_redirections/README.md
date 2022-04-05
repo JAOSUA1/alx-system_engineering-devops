@@ -1,1 +1,1 @@
-Hide word readme
+Reverse readme
