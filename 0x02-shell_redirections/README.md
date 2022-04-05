@@ -1,1 +1,1 @@
-Redirected readme
+Java readme
