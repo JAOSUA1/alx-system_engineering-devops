@@ -1,1 +1,1 @@
-Lines after readme
+Hide word readme
