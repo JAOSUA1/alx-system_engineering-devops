@@ -7,3 +7,4 @@ File type readme
 101-Deleting files ending with ~ readme
 102-Creating multiple directory
 103-Listing all files and directories separated by commas readme
+Magic file School
